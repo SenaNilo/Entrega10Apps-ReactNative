@@ -1,5 +1,4 @@
 # Entrega10Apps-ReactNative:
-## Integrantes: Danilo de Sena, Gabriel Tobias, Patricia Corval
 - App 01: Meu Perfil Profissional
 - App 02: Contador de Pessoas presentes na Loja
 - App 03: Multiplicação de 2 números
